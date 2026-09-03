@@ -45,9 +45,18 @@ Desde el portal principal (`index.html`), se ofrece acceso a 6 experiencias inde
 
 ### 📱 Menú Principal (Hub Arcade)
 
-<div align="center">
-  <img src="public/Menu.png" alt="Menú Principal de Juegos Mi Gusto" width="90%" style="border-radius: 8px;" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="65%" align="center" valign="top">
+      <b>🖥️ Menú Principal (Tótem / Kiosco)</b><br/><br/>
+      <img src="public/Menu.png" alt="Menú Principal Tótem" width="100%" />
+    </td>
+    <td width="35%" align="center" valign="top">
+      <b>📱 Menú Principal (Mobile)</b><br/><br/>
+      <img src="public/Menu2.png" alt="Menú Principal Mobile" width="90%" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -55,31 +64,29 @@ Desde el portal principal (`index.html`), se ofrece acceso a 6 experiencias inde
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center" valign="top">
       <b>🥟 Catch the Empanada</b><br/><br/>
       <img src="public/CatchGame.png" alt="Catch the Empanada" width="100%" />
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center" valign="top">
       <b>🍬 Empanada Crush</b><br/><br/>
       <img src="public/CrushGame.png" alt="Empanada Crush" width="100%" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center" valign="top">
       <b>🧩 Empanada Puzzle</b><br/><br/>
       <img src="public/PuzzleGame.png" alt="Empanada Puzzle" width="100%" />
     </td>
-    <td width="50%" align="center">
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
       <b>👻 PacMan Empanada</b><br/><br/>
       <img src="public/PacmanGame.png" alt="PacMan Empanada" width="100%" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center" valign="top">
       <b>🎯 Bubble Empanada Shooter</b><br/><br/>
       <img src="public/BubbleShooterGame.png" alt="Bubble Empanada Shooter" width="100%" />
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center" valign="top">
       <b>🧠 Empanada Memory</b><br/><br/>
       <img src="public/MemoryGame.png" alt="Empanada Memory" width="100%" />
     </td>
