@@ -117,33 +117,6 @@ Desde el portal principal (`index.html`), se ofrece acceso a 6 experiencias inde
 
 ---
 
-## 🚀 Instalación y Ejecución Local
-
-Para clonar y ejecutar el proyecto en tu entorno local:
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone https://github.com/ramirolacci19/MiGusto_Aperture-Games.git
-   cd MiGusto_Aperture-Games
-   ```
-
-2. **Instalar dependencias:**
-   ```bash
-   npm install
-   ```
-
-3. **Iniciar el servidor de desarrollo:**
-   ```bash
-   npm run dev
-   ```
-
-4. **Construir para producción:**
-   ```bash
-   npm run build
-   ```
-
----
-
 ## 👥 Desarrolladores
 
 Desarrollado por el **Departamento de Sistemas de Mi Gusto** 🥟
